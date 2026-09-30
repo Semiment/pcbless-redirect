@@ -1,0 +1,2 @@
+# Netlify parses this file line by line; it must stay LF even on Windows checkouts.
+_redirects text eol=lf
