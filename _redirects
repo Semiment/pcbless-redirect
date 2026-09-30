@@ -1,0 +1,4 @@
+# pcbless.com -> https://www.pcb-less.com/  (permanent)
+# Netlify _redirects syntax:  from    to    status
+# :splat keeps the original path and query string.
+/*    https://www.pcb-less.com/:splat    301
